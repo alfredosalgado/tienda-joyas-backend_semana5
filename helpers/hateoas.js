@@ -1,4 +1,4 @@
-// helpers/hateoas.js
+
 export const prepararHATEOAS = (joyas) => {
     // Calcula el stock total usando reduce
     const stockTotal = joyas.reduce((total, joya) => total + joya.stock, 0);

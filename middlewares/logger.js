@@ -1,4 +1,4 @@
-// middlewares/logger.js
+
 export const reportarConsulta = async (req, res, next) => {
     const parametros = req.params;
     const querys = req.query;

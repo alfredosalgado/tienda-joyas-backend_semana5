@@ -1,4 +1,4 @@
-// controllers/joyas.controller.js
+
 import { getJoyasModel, getJoyasByFilterModel } from '../models/joyas.model.js';
 import { prepararHATEOAS } from '../helpers/hateoas.js';
 
